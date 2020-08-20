@@ -1,0 +1,22 @@
+HAProxy 文档已经根据不同的用途分成几个文件。
+
+你可以根据以下的提示查到你想要的文件:
+
+  - INSTALL HAProxy如何编译和安装
+  - BRANCHES 版本管理, 帮助你了解不同版本的生命周期
+  - LICENSE 开源协议
+  - CONTRIBUTING 主要给代码贡献者指引代码提交
+
+更多详细的文档在doc/目录:
+
+  - doc/intro.txt         功能简介
+  - doc/configuration.txt 配置说明
+  - configuration.txt     lua 脚本说明
+  - doc/SPOE.txt          SPOE引擎使用说明
+  - doc/network-namespaces.txt linux下网络命名空间的使用
+  - doc/management.txt         管理指导
+  - doc/regression-testing.txt 如何回归测试用例
+  - doc/peers.txt              Peers协议引用
+  - doc/coding-style.txt       编码风格
+  - doc/internals              开发者个性化文档
+
